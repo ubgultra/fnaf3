@@ -1,6 +1,0 @@
-value1 = camera bop
-value2 = hud bop
-
-I usually use 
-0.06
-0.04
